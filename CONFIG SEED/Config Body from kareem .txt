@@ -1,0 +1,264 @@
+
+<style>
+@charset "UTF-8";
+:root{--bs-blue:#0d6efd;}:root{--bs-indigo:#6610f2;}:root{--bs-purple:#6f42c1;}:root{--bs-pink:#d63384;}:root{--bs-red:#dc3545;}
+:root{--bs-orange:#fd7e14;}:root{--bs-yellow:#ffc107;}:root{--bs-green:#198754;}:root{--bs-teal:#1abc9c;}:root{--bs-cyan:#0dcaf0;}
+:root{--bs-white:#fff;}:root{--bs-gray:#6c757d;}:root{--bs-gray-dark:#343a40;}:root{--bs-gray-100:#f8f9fa;}:root{--bs-gray-200:#e9ecef;}
+:root{--bs-gray-300:#dee2e6;}:root{--bs-gray-400:#ced4da;}:root{--bs-gray-500:#adb5bd;}*,*::before,*::after{box-sizing:border-box;}
+:root{--bs-gray-600:#6c757d;}:root{--bs-gray-700:#495057;}:root{--bs-gray-800:#343a40;}:root{--bs-gray-900:#212529;}
+:root{--bs-primary:#1abc9c;}:root{--bs-secondary:#2c3e50;}:root{--bs-:#198754;}:root{--bs-info:#0dcaf0;}
+:root{--bs-warning:#ffc107;}:root{--bs-danger:#dc3545;}:root{--bs-light:#f8f9fa;}:root{--bs-dark:#212529;}
+:root{--bs-primary-rgb:26,188,156;}:root{--bs-secondary-rgb:44,62,80;}:root{--bs-rgb:25,135,84;}:root{--bs-info-rgb:13,202,240;}
+:root{--bs-warning-rgb:255,193,7;}:root{--bs-danger-rgb:220,53,69;}:root{--bs-light-rgb:248,249,250;}:root{--bs-dark-rgb:33,37,41;}
+:root{--bs-white-rgb:255,255,255;}:root{--bs-black-rgb:0,0,0;}:root{--bs-body-color-rgb:33,37,41;}:root{--bs-body-bg-rgb:255,255,255;}
+:root{--bs-font-sans-serif:"Lato",-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji",
+"Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";}:root{--bs-font-monospace:SFMono-Regular,Menlo,Monaco,Consolas,"Liberation Mono","Courier monospace;}
+:root{--bs-gradient:linear-gradient(180deg,rgba(255,255,255,.15),rgba(255,255,255,0));}:root{--bs-body-font-family:var(--bs-font-sans-serif);}
+:root{--bs-body-font-size:1rem;}:root{--bs-body-font-weight:400;}:root{--bs-body-line-height:1.5;}:root{--bs-body-color:#212529;}
+:root{--bs-body-bg:#fff;}@media (prefers-reduced-motion: no-preference){:root{scroll-behavior:smooth;}}
+</style>
+<!--################################################################################################################################################################-->
+<title>
+A B C D E F G H I J K L M N O P Q R S T 
+A B C D E F G H I J K L M N O P Q R S T 
+A B C D E F G H I J K L M N O P Q R S T 
+A B C D E F G H I J K L M N O P Q R S T 
+A B C D E F G H I J K L M N O P Q R S T 
+A B C D E F G H I J K L M N O P Q R S T 
+A B C D E F G H I J K L M N O P Q R S T 
+A B C D E F G H I J K L M N O P Q R S T 
+A B C D E F G H I J K L M N O P Q R S T 
+A B C D E F G H I J K L M N O P Q R S T 
+A B C D E F G H I J K L M N O P Q R S T 
+A B C D E F G H I J K L M N O P Q R S T 
+A B C D E F G H I J K L M N O P Q R S T 
+A B C D E F G H I J K L M N O P Q R S T 
+A B C D E F G H I J K L M N O P Q R S T 
+A B C D E F G H I J K L M N O P Q R S T 
+A B C D E F G H I J K L M N O P Q R S T 
+A B C D E F G H I J K L M N O P Q R S T 
+A B C D E F G H I J K L M N O P Q R S T 
+A B C D E F G H I J K L M N O P Q R S T
+A
+BB
+CCC
+DDDD
+EEEEE
+FFFFFF
+GGGGGGG
+HHHHHHHH
+IIIIIIIII
+JJJJJJJJJJ 
+            A
+           BBB
+          CCCCC
+         DDDDDDD
+        EEEEEEEEE
+       FFFFFFFFFFF
+      GGGGGGGGGGGGG
+     HHHHHHHHHHHHHHH
+    IIIIIIIIIIIIIIIII
+   JJJJJJJJJJJJJJJJJJJ
+  KKKKKKKKKKKKKKKKKKKKK
+ LLLLLLLLLLLLLLLLLLLLLLL
+               A
+              AB
+             ABC
+            ABCD
+           ABCDE
+          ABCDEF
+         ABCDEFG
+        ABCDEFGH
+       ABCDEFGHI
+      ABCDEFGHIJ
+     ABCDEFGHIJK
+    ABCDEFGHIJKL
+   ABCDEFGHIJKLM
+  ABCDEFGHIJKLMN
+ ABCDEFGHIJKLMNO
+J J J J J J J J J J 
+I I I I I I I I I I 
+H H H H H H H H H H 
+G G G G G G G G G G 
+F F F F F F F F F F 
+E E E E E E E E E E 
+D D D D D D D D D D 
+C C C C C C C C C C 
+B B B B B B B B B B 
+A A A A A A A A A A 
+</title>
+<!--################################################################################################################################################################-->
+<title>
+<object>__Random_anm[0][0]</object><object>__Random_anm[0][1]</object><object>__Random_anm[0][2]</object>
+
+<object>__Random_anm[0][3]</object><object>__Random_anm[0][4]</object><object>__Random_anm[0][5]</object>
+<object>__Random_anm[0][6]</object><object>__Random_anm[0][7]</object><object>__Random_anm[0][8]</object>
+<object>__Random_anm[0][9]</object><object>__Random_anm[1][0]</object><object>__Random_anm[1][1]</object>
+<object>__Random_anm[1][2]</object><object>__Random_anm[1][3]</object><object>__Random_anm[1][4]</object>
+<object>__Random_anm[1][5]</object>
+<object>__Random_anm[2][0]</object><object>__Random_anm[2][1]</object><object>__Random_anm[2][2]</object>
+<object>__Random_anm[2][5]</object><object>__Random_anm[2][6]</object><object>__Random_anm[2][7]</object>
+<object>__Random_anm[2][8]</object><object>__Random_anm[2][9]</object><object>__Random_anm[3][0]</object>
+<object>__Random_anm[3][1]</object><object>__Random_anm[3][2]</object><object>__Random_anm[3][3]</object>
+<object>__Random_anm[3][4]</object><object>__Random_anm[3][5]</object><object>__Random_anm[3][6]</object>
+<object>__Random_anm[3][7]</object><object>__Random_anm[3][8]</object><object>__Random_anm[3][9]</object>
+<object>__Random_anm[4][0]</object><object>__Random_anm[4][1]</object><object>__Random_anm[4][2]</object>
+<object>__Random_anm[4][3]</object><object>__Random_anm[4][4]</object><object>__Random_anm[4][5]</object>
+<object>__Random_anm[4][6]</object><object>__Random_anm[4][7]</object><object>__Random_anm[4][8]</object>
+<object>__Random_anm[4][9]</object><object>__Random_anm[5][0]</object><object>__Random_anm[5][1]</object>
+<object>__Random_anm[5][2]</object><object>__Random_anm[5][3]</object><object>__Random_anm[5][4]</object>
+<object>__Random_anm[5][5]</object><object>__Random_anm[5][6]</object><object>__Random_anm[5][7]</object>
+<object>__Random_anm[5][8]</object><object>__Random_anm[5][9]</object><object>__Random_anm[6][0]</object>
+<object>__Random_anm[6][1]</object><object>__Random_anm[6][2]</object><object>__Random_anm[6][3]</object>
+<object>__Random_anm[6][4]</object><object>__Random_anm[6][5]</object><object>__Random_anm[6][6]</object>
+<object>__Random_anm[6][7]</object><object>__Random_anm[6][8]</object><object>__Random_anm[6][9]</object>
+<object>__Random_anm[7][0]</object><object>__Random_anm[7][1]</object><object>__Random_anm[7][2]</object>
+<object>__Random_anm[7][3]</object><object>__Random_anm[7][4]</object><object>__Random_anm[7][5]</object>
+<object>__Random_anm[7][6]</object><object>__Random_anm[7][7]</object><object>__Random_anm[7][8]</object>
+<object>__Random_anm[7][9]</object><object>__Random_anm[8][0]</object><object>__Random_anm[8][1]</object>
+<object>__Random_anm[8][2]</object><object>__Random_anm[8][3]</object><object>__Random_anm[8][4]</object>
+<object>__Random_anm[8][5]</object><object>__Random_anm[8][6]</object><object>__Random_anm[8][7]</object>
+<object>__Random_anm[8][8]</object><object>__Random_anm[8][9]</object><object>__Random_anm[9][0]</object>
+<object>__Random_anm[9][1]</object><object>__Random_anm[9][2]</object><object>__Random_anm[9][3]</object>
+<object>__Random_anm[9][4]</object><object>__Random_anm[9][5]</object><object>__Random_anm[9][6]</object>
+<object>__Random_anm[9][7]</object><object>__Random_anm[9][8]</object><object>__Random_anm[9][9]</object>
+<object>__Random_anm[2][3]</object><object>__Random_anm[2][4]</object>
+</title>
+<!--########################################################################################################################################################-->
+<title>
+
+<object>__Enaqbz_naz[0][4]</object><object>__Enaqbz_naz[0][5]</object><object>__Enaqbz_naz[0][6]</object><object>__Enaqbz_naz[0][7]</object>
+<object>__Enaqbz_naz[0][8]</object><object>__Enaqbz_naz[0][9]</object><object>__Enaqbz_naz[1][0]</object><object>__Enaqbz_naz[1][1]</object>
+<object>__Enaqbz_naz[1][2]</object><object>__Enaqbz_naz[1][3]</object><object>__Enaqbz_naz[1][4]</object><object>__Enaqbz_naz[1][5]</object>
+<object>__Enaqbz_naz[1][6]</object><object>__Enaqbz_naz[1][7]</object><object>__Enaqbz_naz[1][8]</object><object>__Enaqbz_naz[1][9]</object>
+<object>__Enaqbz_naz[2][0]</object><object>__Enaqbz_naz[2][1]</object><object>__Enaqbz_naz[2][2]</object><object>__Enaqbz_naz[2][3]</object>
+<object>__Enaqbz_naz[2][4]</object><object>__Enaqbz_naz[2][5]</object><object>__Enaqbz_naz[2][6]</object><object>__Enaqbz_naz[2][7]</object>
+<object>__Enaqbz_naz[2][8]</object><object>__Enaqbz_naz[2][9]</object><object>__Enaqbz_naz[3][0]</object><object>__Enaqbz_naz[3][1]</object>
+<object>__Enaqbz_naz[3][2]</object><object>__Enaqbz_naz[3][3]</object><object>__Enaqbz_naz[3][4]</object><object>__Enaqbz_naz[3][5]</object>
+<object>__Enaqbz_naz[3][6]</object><object>__Enaqbz_naz[3][7]</object><object>__Enaqbz_naz[5][4]</object><object>__Enaqbz_naz[5][5]</object>
+<object>__Enaqbz_naz[3][8]</object><object>__Enaqbz_naz[3][9]</object><object>__Enaqbz_naz[4][0]</object><object>__Enaqbz_naz[4][1]</object>
+<object>__Enaqbz_naz[4][2]</object><object>__Enaqbz_naz[4][3]</object><object>__Enaqbz_naz[4][4]</object><object>__Enaqbz_naz[4][5]</object>
+<object>__Enaqbz_naz[4][6]</object><object>__Enaqbz_naz[4][7]</object><object>__Enaqbz_naz[4][8]</object><object>__Enaqbz_naz[4][9]</object>
+<object>__Enaqbz_naz[5][0]</object><object>__Enaqbz_naz[5][1]</object><object>__Enaqbz_naz[5][2]</object><object>__Enaqbz_naz[5][3]</object>
+<object>__Enaqbz_naz[5][6]</object><object>__Enaqbz_naz[5][7]</object><object>__Enaqbz_naz[5][8]</object><object>__Enaqbz_naz[5][9]</object>
+<object>__Enaqbz_naz[6][0]</object><object>__Enaqbz_naz[6][1]</object><object>__Enaqbz_naz[6][2]</object><object>__Enaqbz_naz[6][3]</object>
+<object>__Enaqbz_naz[6][4]</object><object>__Enaqbz_naz[6][5]</object><object>__Enaqbz_naz[6][6]</object><object>__Enaqbz_naz[6][7]</object>
+<object>__Enaqbz_naz[6][8]</object><object>__Enaqbz_naz[6][9]</object><object>__Enaqbz_naz[7][0]</object><object>__Enaqbz_naz[7][1]</object>
+<object>__Enaqbz_naz[7][2]</object><object>__Enaqbz_naz[7][3]</object><object>__Enaqbz_naz[7][4]</object><object>__Enaqbz_naz[7][5]</object>
+<object>__Enaqbz_naz[7][6]</object><object>__Enaqbz_naz[7][7]</object><object>__Enaqbz_naz[7][8]</object><object>__Enaqbz_naz[7][9]</object>
+<object>__Enaqbz_naz[8][0]</object><object>__Enaqbz_naz[8][1]</object><object>__Enaqbz_naz[8][2]</object><object>__Enaqbz_naz[8][3]</object>
+<object>__Enaqbz_naz[8][4]</object><object>__Enaqbz_naz[8][5]</object><object>__Enaqbz_naz[8][6]</object><object>__Enaqbz_naz[8][7]</object>
+<object>__Enaqbz_naz[8][8]</object><object>__Enaqbz_naz[8][9]</object><object>__Enaqbz_naz[9][0]</object><object>__Enaqbz_naz[9][1]</object>
+<object>__Enaqbz_naz[9][2]</object><object>__Enaqbz_naz[9][3]</object><object>__Enaqbz_naz[9][4]</object><object>__Enaqbz_naz[9][5]</object>
+<object>__Enaqbz_naz[9][6]</object><object>__Enaqbz_naz[9][7]</object><object>__Enaqbz_naz[9][8]</object><object>__Enaqbz_naz[9][9]</object>
+<object>__Enaqbz_naz[0][1]</object><object>__Enaqbz_naz[0][2]</object><object>__Enaqbz_naz[0][3]</object>
+</title>
+<!--################################################################################################################################################################-->
+<title>
+X19SYW5kb21fYW5tWzBdWzBdCl9fUmFuZG9tX2FubVswXVsxXQpfX1JhbmRvbV9hbm1bMF1bMl0KX19SYW5kb21
+fYW5tWzBdWzNdCl9fUmFuZG9tX2FubVswXVs0XQpfX1JhbmRvbV9hbm1bMF1bNV0KX19SYW5kb21fYW5tWzBdWz
+ZdCl9fUmFuZG9tX2FubVswXVs3XQpfX1JhbmRvbV9hbm1bMF1bOF0KX19SYW5kb21fYW5tWzBdWzldCl9fUmFuZ
+G9tX2FubVsxXVswXQpfX1JhbmRvbV9hbm1bMV1bMV0KX19SYW5kb21fYW5tWzFdWzJdCl9fUmFuZG9tX2FubVsx
+
+XVszXQpfX1JhbmRvbV9hbm1bMV1bNF0KX19SYW5kb21fYW5tWzFdWzVdCl9fUmFuZG9tX2FubVsxXVs2XQpfX1J
+hbmRvbV9hbm1bMV1bN10KX19SYW5kb21fYW5tWzFdWzhdCl9fUmFuZG9tX2FubVsxXVs5XQpfX1JhbmRvbV9hbm
+1bMl1bMF0KX19SYW5kb21fYW5tWzJdWzFdCl9fUmFuZG9tX2FubVsyXVsyXQpfX1JhbmRvbV9hbm1bMl1bM10KX
+19SYW5kb21fYW5tWzJdWzRdCl9fUmFuZG9tX2FubVsyXVs1XQpfX1JhbmRvbV9hbm1bMl1bNl0KX19SYW5kb21f
+YW5tWzJdWzddCl9fUmFuZG9tX2FubVsyXVs4XQpfX1JhbmRvbV9hbm1bMl1bOV0KX19SYW5kb21fYW5tWzNdWzB
+dCl9fUmFuZG9tX2FubVszXVsxXQpfX1JhbmRvbV9hbm1bM11bMl0KX19SYW5kb21fYW5tWzNdWzNdCl9fUmFuZG
+9tX2FubVszXVs0XQpfX1JhbmRvbV9hbm1bM11bNV0KX19SYW5kb21fYW5tWzNdWzZdCl9fUmFuZG9tX2FubVszX
+Vs3XQpfX1JhbmRvbV9hbm1bM11bOF0KX19SYW5kb21fYW5tWzNdWzldCl9fUmFuZG9tX2FubVs0XVswXQpfX1Jh
+bmRvbV9hbm1bNF1bMV0KX19SYW5kb21fYW5tWzRdWzJdCl9fUmFuZG9tX2FubVs0XVszXQpfX1JhbmRvbV9hbm1
+bNF1bNF0KX19SYW5kb21fYW5tWzRdWzVdCl9fUmFuZG9tX2FubVs0XVs2XQpfX1JhbmRvbV9hbm1bNF1bN10KX1
+9SYW5kb21fYW5tWzRdWzhdCl9fUmFuZG9tX2FubVs0XVs5XQpfX1JhbmRvbV9hbm1bNV1bMF0KX19SYW5kb21fY
+W5tWzVdWzFdCl9fUmFuZG9tX2FubVs1XVsyXQpfX1JhbmRvbV9hbm1bNV1bM10KX19SYW5kb21fYW5tWzVdWzRd
+Cl9fUmFuZG9tX2FubVs1XVs1XQpfX1JhbmRvbV9hbm1bNV1bNl0KX19SYW5kb21fYW5tWzVdWzddCl9fUmFuZG9
+tX2FubVs1XVs4XQpfX1JhbmRvbV9hbm1bNV1bOV0KX19SYW5kb21fYW5tWzZdWzBdCl9fUmFuZG9tX2FubVs2XV
+sxXQpfX1JhbmRvbV9hbm1bNl1bMl0KX19SYW5kb21fYW5tWzZdWzNdCl9fUmFuZG9tX2FubVs2XVs0XQpfX1Jhb
+mRvbV9hbm1bNl1bNV0KX19SYW5kb21fYW5tWzZdWzZdCl9fUmFuZG9tX2FubVs2XVs3XQpfX1JhbmRvbV9hbm1b
+Nl1bOF0KX19SYW5kb21fYW5tWzZdWzldCl9fUmFuZG9tX2FubVs3XVswXQpfX1JhbmRvbV9hbm1bN11bMV0KX19
+SYW5kb21fYW5tWzddWzJdCl9fUmFuZG9tX2FubVs3XVszXQpfX1JhbmRvbV9hbm1bN11bNF0KX19SYW5kb21fYW
+5tWzddWzVdCl9fUmFuZG9tX2FubVs3XVs2XQpfX1JhbmRvbV9hbm1bN11bN10KX19SYW5kb21fYW5tWzddWzhdC
+l9fUmFuZG9tX2FubVs3XVs5XQpfX1JhbmRvbV9hbm1bOF1bMF0KX19SYW5kb21fYW5tWzhdWzFdCl9fUmFuZG9t
+X2FubVs4XVsyXQpfX1JhbmRvbV9hbm1bOF1bM10KX19SYW5kb21fYW5tWzhdWzRdCl9fUmFuZG9tX2FubVs4XVs1
+XQpfX1JhbmRvbV9hbm1bOF1bNl0KX19SYW5kb21fYW5tWzhdWzddCl9fUmFuZG9tX2FubVs4XVs4XQpfX1JhbmRv
+bV9hbm1bOF1bOV0KX19SYW5kb21fYW5tWzldWzBdCl9fUmFuZG9tX2FubVs5XVsxXQpfX1JhbmRvbV9hbm1bOV1b
+Ml0KX19SYW5kb21fYW5tWzldWzNdCl9fUmFuZG9tX2FubVs5XVs0XQpfX1JhbmRvbV9hbm1bOV1bNV0KX19SYW5k
+b21fYW5tWzldWzZdCl9fUmFuZG9tX2FubVs5XVs3XQpfX1JhbmRvbV9hbm1bOV1bOF0KX19SYW5kb21fYW5tWzld
+Wzld
+</title>
+<!--################################################################################################################################################################-->
+<title>
+\u{5f}\u{5f}\u{52}\u{61}\u{6e}\u{64}\u{6f}\u{6d}\u{5f}\u{61}\u{6e}\u{6d}\u{5b}\u{30}\u{5d}\u{5b}\u{30}\u{5d}\u{a}\u{5f}\u{5f}\u{52}\u{61}\u{6e}\u{64}\u{6f}\u{6d}
+\u{5f}\u{61}\u{6e}\u{6d}\u{5b}\u{30}\u{5d}\u{5b}\u{31}\u{5d}\u{a}\u{5f}\u{5f}\u{52}\u{61}\u{6e}\u{64}\u{6f}\u{6d}\u{5f}\u{61}\u{6e}\u{6d}\u{5b}\u{30}\u{5d}\u{5b}
+\u{32}\u{5d}\u{a}\u{5f}\u{5f}\u{52}\u{61}\u{6e}\u{64}\u{6f}\u{6d}\u{5f}\u{61}\u{6e}\u{6d}\u{5b}\u{30}\u{5d}\u{5b}\u{33}\u{5d}\u{a}\u{5f}\u{5f}\u{52}\u{61}\u{6e}
+\u{64}\u{6f}\u{6d}\u{5f}\u{61}\u{6e}\u{6d}\u{5b}\u{30}\u{5d}\u{5b}\u{34}\u{5d}\u{a}\u{5f}\u{5f}\u{52}\u{61}\u{6e}\u{64}\u{6f}\u{6d}\u{5f}\u{61}\u{6e}\u{6d}\u{5b}
+\u{30}\u{5d}\u{5b}\u{35}\u{5d}\u{a}\u{5f}\u{5f}\u{52}\u{61}\u{6e}\u{64}\u{6f}\u{6d}\u{5f}\u{61}\u{6e}\u{6d}\u{5b}\u{30}\u{5d}\u{5b}\u{36}\u{5d}\u{a}\u{5f}\u{5f}
+\u{52}\u{61}\u{6e}\u{64}\u{6f}\u{6d}\u{5f}\u{61}\u{6e}\u{6d}\u{5b}\u{30}\u{5d}\u{5b}\u{37}\u{5d}\u{a}\u{5f}\u{5f}\u{52}\u{61}\u{6e}\u{64}\u{6f}\u{6d}\u{5f}\u{61}
+\u{6e}\u{6d}\u{5b}\u{30}\u{5d}\u{5b}\u{38}\u{5d}\u{a}\u{5f}\u{5f}\u{52}\u{61}\u{6e}\u{64}\u{6f}\u{6d}\u{5f}\u{61}\u{6e}\u{6d}\u{5b}\u{30}\u{5d}\u{5b}\u{39}\u{5d}
+\u{a}\u{5f}\u{5f}\u{52}\u{61}\u{6e}\u{64}\u{6f}\u{6d}\u{5f}\u{61}\u{6e}\u{6d}\u{5b}\u{31}\u{5d}\u{5b}\u{30}\u{5d}\u{a}\u{5f}\u{5f}\u{52}\u{61}\u{6e}\u{64}\u{6f}
+\u{6d}\u{5f}\u{61}\u{6e}\u{6d}\u{5b}\u{31}\u{5d}\u{5b}\u{31}\u{5d}\u{a}\u{5f}\u{5f}\u{52}\u{61}\u{6e}\u{64}\u{6f}\u{6d}\u{5f}\u{61}\u{6e}\u{6d}\u{5b}\u{31}\u{5d}
+\u{5b}\u{32}\u{5d}\u{a}\u{5f}\u{5f}\u{52}\u{61}\u{6e}\u{64}\u{6f}\u{6d}\u{5f}\u{61}\u{6e}\u{6d}\u{5b}\u{31}\u{5d}\u{5b}\u{33}\u{5d}\u{a}\u{5f}\u{5f}\u{52}\u{61}
+
+\u{6e}\u{64}\u{6f}\u{6d}\u{5f}\u{61}\u{6e}\u{6d}\u{5b}\u{31}\u{5d}\u{5b}\u{34}\u{5d}\u{a}\u{5f}\u{5f}\u{52}\u{61}\u{6e}\u{64}\u{6f}\u{6d}\u{5f}\u{61}\u{6e}\u{6d}
+\x5f\x5f\x52\x61\x6e\x64\x6f\x6d\x5f\x61\x6e\x6d\x5b\x30\x5d\x5b\x30\x5d\x0a\x5f\x5f\x52\x61\x6e\x64\x6f\x6d\x5f\x61\x6e\x6d\x5b\x30\x5d\x5b\x31\x5d\x0a\x5f\x5f
+\x52\x61\x6e\x64\x6f\x6d\x5f\x61\x6e\x6d\x5b\x30\x5d\x5b\x32\x5d\x0a\x5f\x5f\x52\x61\x6e\x64\x6f\x6d\x5f\x61\x6e\x6d\x5b\x30\x5d\x5b\x33\x5d\x0a\x5f\x5f\x52\x61
+\x6e\x64\x6f\x6d\x5f\x61\x6e\x6d\x5b\x30\x5d\x5b\x34\x5d\x0a\x5f\x5f\x52\x61\x6e\x64\x6f\x6d\x5f\x61\x6e\x6d\x5b\x30\x5d\x5b\x35\x5d\x0a\x5f\x5f\x52\x61\x6e\x64
+\x6f\x6d\x5f\x61\x6e\x6d\x5b\x30\x5d\x5b\x36\x5d\x0a\x5f\x5f\x52\x61\x6e\x64\x6f\x6d\x5f\x61\x6e\x6d\x5b\x30\x5d\x5b\x37\x5d\x0a\x5f\x5f\x52\x61\x6e\x64\x6f\x6d
+\x5f\x61\x6e\x6d\x5b\x30\x5d\x5b\x38\x5d\x0a\x5f\x5f\x52\x61\x6e\x64\x6f\x6d\x5f\x61\x6e\x6d\x5b\x30\x5d\x5b\x39\x5d\x0a\x5f\x5f\x52\x61\x6e\x64\x6f\x6d\x5f\x61
+\x6e\x6d\x5b\x31\x5d\x5b\x30\x5d\x0a\x5f\x5f\x52\x61\x6e\x64\x6f\x6d\x5f\x61\x6e\x6d\x5b\x31\x5d\x5b\x31\x5d\x0a\x5f\x5f\x52\x61\x6e\x64\x6f\x6d\x5f\x61\x6e\x6d
+\x5b\x31\x5d\x5b\x32\x5d\x0a\x5f\x5f\x52\x61\x6e\x64\x6f\x6d\x5f\x61\x6e\x6d\x5b\x31\x5d\x5b\x33\x5d\x0a\x5f\x5f\x52\x61\x6e\x64\x6f\x6d\x5f\x61\x6e\x6d\x5b\x31
+\x5d\x5b\x34\x5d\x0a\x5f\x5f\x52\x61\x6e\x64\x6f\x6d\x5f\x61\x6e\x6d\x5b\x31\x5d\x5b\x35\x5d\x0a\x5f\x5f\x52\x61\x6e\x64\x6f\x6d\x5f\x61\x6e\x6d\x5b\x31\x5d\x5b
+\x36\x5d\x0a\x5f\x5f\x52\x61\x6e\x64\x6f\x6d\x5f\x61\x6e\x6d\x5b\x31\x5d\x5b\x37\x5d\x0a\x5f\x5f\x52\x61\x6e\x64\x6f\x6d\x5f\x61\x6e\x6d\x5b\x31\x5d\x5b\x38\x5d
+\x0a\x5f\x5f\x52\x61\x6e\x64\x6f\x6d\x5f\x61\x6e\x6d\x5b\x31\x5d\x5b\x39\x5d\x0a\x5f\x5f\x52\x61\x6e\x64\x6f\x6d\x5f\x61\x6e\x6d\x5b\x32\x5d\x5b\x30\x5d\x0a\x5f
+\x5f\x52\x61\x6e\x64\x6f\x6d\x5f\x61\x6e\x6d\x5b\x32\x5d\x5b\x31\x5d\x0a\x5f\x5f\x52\x61\x6e\x64\x6f\x6d\x5f\x61\x6e\x6d\x5b\x32\x5d\x5b\x32\x5d\x0a\x5f\x5f\x52
+</title>
+<!--################################################################################################################################################################-->
+<center>
+<!------------------------------------------------------------------##############---------------------------------------------------------------------------->
+<br><a href="http://__Bounce_dnO/r6644.php?32=1[id]o4563e63c083041f_1uc4.[news].[track]2463.[msgid]"><strong style="background-color:#000000;color:white; text-decoration:none; padding:1rem; margin:auto; text-align:center; height:20px;"> </strong></a><br><br>
+<br>
+<a href="http://__Bounce_dnO/r6644.php?32=1[id]o4563e63c083041f_1uc4.[news].[track]2463.[msgid]"><strong style="background-color:#000000;color:white; text-decoration:none; padding:1rem;"></strong></a><br><br>
+<!------------------------------------------------------------------###############---------------------------------------------------------------------------->
+<!--######################################################################################################################################################################-->
+<!------------------------------------------------------------------##############---------------------------------------------------------------------------->
+<a href="http://__Bounce_dnO/r6644.php?32=1[id]o4563e63c083041f_1uc4.[news].[track]2463.[msgid]"><img style="border-style: solid; border-color: black;" src="http://__Bounce_dnO/1s75y8d4646m/FcQqalATluM6.jpg"></a><br>
+<!------------------------------------------------------------------##############---------------------------------------------------------------------------->
+<!--######################################################################################################################################################################-->
+<a href="http://__Bounce_dnO/r6644.php?32=1[id]o4561b9a902c8b35.[news].[track]2463.[msgid]"><img style="border-style: solid; border-color: black; position: relative; left: 0px;" src="http://__Bounce_dnO/1s75y8d4aiuy/Di3EHILnD.jpg"></a><br>
+
+<!------------------------------------------------------------------##############---------------------------------------------------------------------------->
+<!--######################################################################################################################################################################-->
+<a href="http://__Bounce_dnO/r6644.php?32=1[id]o456410aab20b30c.[news].[track]2463.[msgid]"><img style="border-style: solid; border-color: black;" src="<<unsub-image>>" ></a>
+<!------------------------------------------------------------------##############---------------------------------------------------------------------------->
+<!--######################################################################################################################################################################-->
+</center>
+<title>
+“生命的成分，”卡車的背面說。 他們指的是食物，但實際上食物只是生活的一種成分。 生活有更多的成分，如痛苦、快樂、歡笑、喜悅、眼淚和微笑。 生活也有辛苦，有輕鬆，有不眠之夜，也有海邊曬日光浴。 愛、仇恨、嫉妒、自信和恐懼可能就在貨架 3 的下方，需要時隨時可以購買。 我多麼希望我能把這些原料從商店的貨架上拿下來。
+“你收到我的短信了嗎？？？” 她給他發了短信。 他瞥了一眼，低聲笑了起來。 他當然得到了它們，但如果他沒有得到它們，他將如何回答？ 他放下電話，繼續他的項目。 他無視她的短信，而且他打算繼續這樣做。
+他點了他的常規早餐。 兩個單面朝上的雞蛋、土豆煎餅和兩條培根。 他繼續看菜單，想知道今天是否會添加新東西。 這也是例行公事。 猶豫了幾秒鐘，看看是否會在訂單中添加其他內容，然後才猶豫並說這就是全部。 這和過去兩年他每天點的一模一樣。
+光線使他眼花繚亂。 天很黑，他以為這片區域只有他一個人，但他眼中閃爍的光芒證明他錯了。 它來自大約 100 英尺遠的地方，直射到他的眼睛裡，以至於他看不清拿著燈的人。 在這種情況下，只有一件事要做。 他把手伸進口袋裡，掏出了自己的手電筒，比現在讓他眼瞎的手電筒強多了。 他打開它，把它對準陌生人的眼睛。
+必須有更好的方法。 南希坐在辦公桌前盯著電腦屏幕時，腦子裡只有這些。 她已經在這個小隔間裡度過了五年的生活，盯著她的電腦做一些對包括她自己的老闆在內的任何人都無關緊要的“工作”。 她的生活必須不止於此，必須有更好的謀生方式。 地震發生時，她就是這麼想的。
+水沖下沖刷並流入下面的狹縫峽谷。 兩名徒步旅行者開始了新的一天，天氣晴朗，天上沒有云，但他們沒有想過查看峽谷北部的天氣。 巨大的雷暴帶來了傾盆大雨，並產生了山洪暴發。 兩個徒步旅行者不知道接下來會發生什麼。
+我最近發現我可以用巧克力片、甜煉乳、香草精和一個厚鍋慢火做軟糖。 我試過用黑巧克力塊和半甜巧克力片試過。 這兩種都更好。 只加黑巧克力就很糟糕了。 最好的添加物是碎杏仁和棉花糖——你從中得到的就是洛基路。 從開始到冷藏大約需要 20 分鐘，然後需要大約 6 個月的時間才能減掉因食用它而增加的 20 磅。 凡事適度，朋友。 凡事適度。
+這份工作的優點在於採購物品的時間不需要旅行。 我只看網上買的。 就這麼簡單。 當其他人都在尋找他們可以賣的東西時，我坐在電腦前用更少的錢買更好的東西，而且只花一小部分時間做這件事。
+頭痛不會消失。 她吃了藥，但即使這樣也無濟於事。 她腦袋裡可怕的悸動還在繼續。 她一生中只發生過一次這種事，她意識到只有一件事可能發生。
+二十五顆星辰，整整齊齊的放在那張紙上。 還有五顆星的空間，但它們很難獲得。 獲得前二十五名花了很多年，他們被認為是“容易”的。
+儘管斯科特說這對他來說無關緊要，但他內心深處知道這很重要。 從他記事起他們就一直是朋友，而且他從來沒有抗議過喬為所做的事道歉並不重要。 斯科特堅持他的謊言，一次又一次地堅持說一切都很好，喬繼續道歉。 斯科特已經知道，儘管他接受了道歉的話，但他們的友誼永遠不會一樣了。
+他們說，只有當您比周圍的人更了解自己時，您才能與自己和解。 德里克對此一無所知。 他以為自己找到了平靜，但這只是幻覺，因為他即將發現一個意想不到的事情，其實他對自己一無所知。
+那是一個深夜。 更準確地說，那是一個清晨。 現在是凌晨 ，喬治正要回家。 他不確定這是否值得。 他應該在晚上 10:00 之前完成，但他的老闆懇求他留下來幫忙，因為很明顯他們不會在晚上 10:00 見面
+</title>
+<!--######################################################################################################################################################################-->
+<title>
+ <!--@@--><!--@@--><!--@@--><!--@@--><!--@@--><!--@@--><!--@@--><!--@@--><!--@@--><!--@@--><!--@@-->  
+ <!--@@--> X19SYW5kb21fYW5tJTVCMTQlMkN1JTVEJTBBKysrK19fUmFuZG9tX2FubSU1QjE5NiUyQ3UlNUQl<!--@@-->
+ <!--@@--> MEErKysrCl9fUmFuZG9tX2FubSU1QjE5OSUyQ3UlNUQlMEErKysrX19SYW5kb21fYW5tJTVCMTQl<!--@@-->
+ <!--@@--> MkN1JTVEJTBBKysrKwpfX1JhbmRvbV9hbm0lNUIxNCUyQ3UlNUQlMEErKysrX19SYW5kb21fYW5t<!--@@-->
+ <!--@@--> JTVCMTk2JTJDdSU1RCUwQSsrKysKX19SYW5kb21fYW5tJTVCMTk5JTJDdSU1RCUwQSsrKytfX1Jh<!--@@-->
+ <!--@@--> bmRvbV9hbm0lNUIxNCUyQ3UlNUQlMEErKysrCl9fUmFuZG9tX2FubSU1QjE0JTJDdSU1RCUwQSsr<!--@@-->
+ <!--@@--> KytfX1JhbmRvbV9hbm0lNUIxOTYlMkN1JTVEJTBBKysrKwpfX1JhbmRvbV9hbm0lNUIxOTklMkN1<!--@@-->
+ <!--@@--> JTVEJTBBKysrK19fUmFuZG9tX2FubSU1QjE0JTJDdSU1RCUwQSsrKytfCl9SYW5kb21fYW5tJTVC<!--@@-->
+ <!--@@--> MTQlMkN1JTVEJTBBKysrK19fUmFuZG9tX2FubSU1QjE5NiUyQ3UlNUQlMEErKysrCl9fUmFuZG9t<!--@@-->
+ <!--@@--> X2FubSU1QjE5OSUyQ3UlNUQlMEErKysrX19SYW5kb21fYW5tJTVCMTQlMkN1JTVE<!--@@--><!--@@-->
+ <!--@@--><!--@@--><!--@@--><!--@@--><!--@@--><!--@@--><!--@@--><!--@@--><!--@@--><!--@@-->
+ </title>

@@ -1,0 +1,18 @@
+Received: from cp-web2 (unknown [__Ip]) by mail.notifications.__Bounce_dnO (Postfix) with ESMTP id 4E513F33E54E5F1A for <__To>;__smtpDate>
+From: fdjhdfjd  <admin@__Bounce_dnO>
+To: __To
+Reply-To: <word@__Bounce_dnO>
+Subject:This understanding of the word [__Server]  [__Ip]__Random_anm[26,u]__Random_anm[8,l]__Random_anm[18,u]
+Date: __smtpDate
+List-Unsubscribe: <mailto:listunsub@__Bounce_dnO>
+Message-ID: <__Random_anm[45,u]@__Random_anm[35,u].__Bounce_dnO>
+Accept-Language: fr-CA
+Content-Language: fr-CA
+X-Mail-From:  __Bounce_dnO
+X-RCPT-To: __To
+Content-Type: multipart/alternative; boundary="_000_DBAPR02MB599276E2BE61A73DC01B0543E50E0DBAPR02MB5992eurp_"
+MIME-Version: 1.0
+
+--_000_DBAPR02MB599276E2BE61A73DC01B0543E50E0DBAPR02MB5992eurp_
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: 8bit

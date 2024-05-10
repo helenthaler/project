@@ -1,0 +1,52 @@
+Received: from MTQ5NDEyNTk (unknown) by ismtpd0155p1iad2.sendgrid.net (SG) with HTTP id __Random_anm[22,u] __smtpDate
+Content-Transfer-Encoding: hexa
+Content-Type: text/html; charset=utf-8
+Date: __smtpDate
+From: successful email__Random_anm[11,l] __Random_anm[11,s] <noreply@__Bounce_dn>
+Mime-Version: 1.0
+Message-ID: <9WYRaO1RSaGXRG30EEeKTQ@ismtpd0155p1iad2__Bounce_dn>
+Subject: for the email newsletter[__Server] [__Ip] __Random_al[2,l]
+Return-Path: FS360<FS360@__Bounce_dn>
+X-Feedback-ID: 14941259:SG
+X-SG-EID: GERcKZx/Rx67uZIWZI4Pfc/6RqWkVZ3G9M9Ume5IkDcViV3mbaL2eqE87Oo2GnSFAec24ygKvJ/Yo/Dq5t7jGFkcxmjvh
+To: __To
+X-Entity-ID: Ci3znymX13hUGgF2w3OEcg==
+=================================================================================
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "">
+<html xmlns="" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office">
+<head>
+</head>
+<body>
+<title>
+<p>Dear Students,</p>
+<p>This on-line Handbook is intended to assist you in navigating the policies and procedures at the UH Law Center</p>
+<p>and the University of Houston. It is intended to bring together rules, policies and procedures from various</p>
+<p>sources that are important to law students. All students are responsible for being familiar with the contents;</p>
+<p>therefore, students are strongly encouraged to review all policies carefully.</p>
+<p>Although every effort has been made to make this Handbook accurate and complete, the information provided</p>
+<p>is subject to change or correction. All updates will be announced in Daily LEX and the Handbook will be</p>
+<p>updated with the changes duly noted.</p>
+__Random_anm[19,u]--__Random_anm[19,u]--__Random_anm[17,u]---------------------------------------__Random_anm[19,u]--__Random_anm[19,u]--__Random_anm[17,u]
+[__Ip] [__Random_anm[2,u]][__Ip] [__Random_anm[2,u]][__Ip] [__Random_anm[2,u]][__Ip] [__Random_anm[2,u]][__Ip] [__Random_anm[2,u]][__Ip] [__Random_anm[2,u]][__Ip] [__Random_anm[2,u]][__Ip] [__Random_anm[2,u]][__Ip] [__Random_anm[2,u]][__Ip] [__Random_anm[2,u]][__Ip] [__Random_anm[2,u]][__Ip] [__Random_anm[2,u]][__Ip] [__Random_anm[2,u]][__Ip] [__Random_anm[2,u]]
+</Title>
+<div style="text-align:center">
+<a href="__Bounce_dn/__Random_al[14,l].php?1d=1[id]o456228c0c3bc5a0_1ro4.[news].[track]2320.[msgid]">
+<h2>PIease confirm receipt -CIick Here</h3><hr>
+<img src="__Bounce_dn/1pe5u5gve08o/61TvBXKfqr1.jpg"></a><br><a href="__Bounce_dn/__Random_al[14,l].php?1d=1[id]o4561e97e72e55ea.[news].[track]2320.[msgid]">
+<img src="__Bounce_dn/1pe5u5gvi761/lmwnfgwP7kpvxB.jpg"></a><br>
+<a href="__Bounce_dn/__Random_al[14,l].php?1d=1[id]o45621e2dd8e2bd1.[news].[track]2320.[msgid]"><img src="<<unsub-image>>" ></a> 
+<div>  
+<title>     
+<p>Carson,</p>   
+<p>Hello,</p>
+<p><br />Thanks for registering with ????__Random_anm[5,u]????? My Account.<br />To access My Account please login using the email and password you provided. Once logged in you will be able to order new services, view existing orders, check current and previous bills, manage your account settings and more.</p>
+<p>If you didn't register with ????[5A]????? My Account please call us on [10N] to let us know.</p>
+<p><br />Thanks,<br />????[5A]????? Customer Services</p>
+__Random_anm[19,u]--__Random_anm[19,u]--__Random_anm[17,u]---------------------------------------__Random_anm[19,u]--__Random_anm[19,u]--__Random_anm[17,u]
+__Random_anm[19,u]--__Random_anm[19,u]--__Random_anm[17,u]---------------------------------------__Random_anm[19,u]--__Random_anm[19,u]--__Random_anm[17,u]
+<p>VERIFY YOUR EMAIL ACCOUNT</p>
+<p>Welcome to [__Random_anm[6,u]]. To activate your [8LA] account you must first verify your email address by clicking this link.</p>
+<p>HAVING TROUBLE?</p>
+<p>If the link above did not work, you can copy and paste the full URL from your mail client into your web browser. The URL should be a single line, if your mail client splits it into multiple lines, copy and paste each line separately.</p>
+</Title> 

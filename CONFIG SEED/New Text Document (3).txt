@@ -1,0 +1,96 @@
+Original Message
+Message ID	<CAO5hsvivsOowup=TPUb1GXAt6Pqq0TPQLDZTZ2SBBUcNkQqVJA@mail.gmail.com>
+Created at:	Thu, Jul 13, 2023 at 2:10 PM (Delivered after 13 seconds)
+From:	Mery Peter <merymem890@gmail.com>
+To:	
+Subject:	Habari
+SPF:	PASS with IP 209.85.220.41 Learn more
+DKIM:	'PASS' with domain gmail.com Learn more
+DMARC:	'PASS' Learn more
+
+
+Download Original	Copy to clipboard	
+Delivered-To: mariakajembe@gmail.com
+Received: by 2002:a2e:9e55:0:0:0:0:0 with SMTP id g21csp13199697ljk;
+        Thu, 13 Jul 2023 04:10:33 -0700 (PDT)
+X-Received: by 2002:a67:e34b:0:b0:445:942:5c81 with SMTP id s11-20020a67e34b000000b0044509425c81mr290256vsm.20.1689246633710;
+        Thu, 13 Jul 2023 04:10:33 -0700 (PDT)
+ARC-Seal: i=1; a=rsa-sha256; t=1689246633; cv=none;
+        d=google.com; s=arc-20160816;
+        b=lLfAIIYntCGoXtiWrCkO1H+AuoeCcgIEjV02GapJ0g+NoKWYeWrXsk4Qno3q9w1hoI
+         vkitQxloJbwwQ4PrB8X/ntPE4YSw1yD/okwkUr3Pist21pCNI9QT54598Fr1h2WaCpwp
+         WDsvibgDySWBzg0E8UR5afV9K0lFldtQGRCSk4EoP+ywEEFE6K5ic4QDJmCX7nh/wDfy
+         griUF1L88qmpEECxFhANWYnwH6PCqHWgpS6ljeNLWSDWyXT7NuDhhY8KkhI0KNuuahY5
+         3cFBN0aJOdPCn8C5IKmTDgNaPBeVAFTQJhl2XcVY9P9X4d9v/ZsN1AtUoJLSS3IzpiKZ
+         A1Zg==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=google.com; s=arc-20160816;
+        h=to:subject:message-id:date:from:mime-version:dkim-signature;
+        bh=a21Fhi0hiHYNi5ati4dXkV7dkmFbMxm6T5FcIe71FK0=;
+        fh=sEkMZjdmYhvahzJqJlXvJpY1woLOqvGENsIm68EFF8s=;
+        b=ymDGiHl2Ht6S44M5pQL2gUekzw5Bd5CmEClzcgM9a7b0p+100JVhFgLbDlkyhVd6Ys
+         uHASea3lqVRM29B7MwYSCA04yFmTmGMiwCT0tguKbXaC204REsZ2NKclkWpLsniy2X2z
+         ImGNIZUd9sPuRX+Ll2QTOIp6gkZ5rR+W0CnnXrRHT5tN8rYg5ui7JFCBrcV8sPIJjk72
+         fW4P3hu1kq+8XVwigRTMHtD6CfIRIRuoODLIytO1ffvq325GzEBt0F0dNUZ8eHQ5Cz+c
+         He3aiBfvFCj7GBfoxav1QfHYr5/mUtD/BHeB1798Jrfo5wDYavHh9W/DDkR3o4ZnqZDM
+         FPbQ==
+ARC-Authentication-Results: i=1; mx.google.com;
+       dkim=pass header.i=@gmail.com header.s=20221208 header.b=RCOkgi5N;
+       spf=pass (google.com: domain of marcelinadandjo22@gmail.com designates 209.85.220.41 as permitted sender) smtp.mailfrom=marcelinadandjo22@gmail.com;
+       dmarc=pass (p=NONE sp=QUARANTINE dis=NONE) header.from=gmail.com
+Return-Path: <marcelinadandjo22@gmail.com>
+Received: from mail-sor-f41.google.com (mail-sor-f41.google.com. [209.85.220.41])
+        by mx.google.com with SMTPS id l8-20020a67b748000000b0044385b0bb8dsor745447vsh.11.2023.07.13.04.10.33
+        for <mariakajembe@gmail.com>
+        (Google Transport Security);
+        Thu, 13 Jul 2023 04:10:33 -0700 (PDT)
+Received-SPF: pass (google.com: domain of marcelinadandjo22@gmail.com designates 209.85.220.41 as permitted sender) client-ip=209.85.220.41;
+Authentication-Results: mx.google.com;
+       dkim=pass header.i=@gmail.com header.s=20221208 header.b=RCOkgi5N;
+       spf=pass (google.com: domain of marcelinadandjo22@gmail.com designates 209.85.220.41 as permitted sender) smtp.mailfrom=marcelinadandjo22@gmail.com;
+       dmarc=pass (p=NONE sp=QUARANTINE dis=NONE) header.from=gmail.com
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20221208; t=1689246633; x=1691838633;
+        h=to:subject:message-id:date:from:mime-version:from:to:cc:subject
+         :date:message-id:reply-to;
+        bh=a21Fhi0hiHYNi5ati4dXkV7dkmFbMxm6T5FcIe71FK0=;
+        b=RCOkgi5NSyNjD7pp+WQ1SBKSCNtjaoSJtzLWYoXD3rl6B4cBRJWkCwiKytS+OOKTxN
+         ycPLMM8hhPYnycEij11qBjezeqgIQhROqpLddvX0/WaReGhgaXFWOf3iNPLI0+BR2hf1
+         WDtqf5Hwn7KPjdVZ1t4tRrjMk7165f0SJK18CiHl6+R7nHFmc5TA9VUe1/vuas8tEqRa
+         8GKwk2lRiMnkp22bn0NEyLacHXtLcK/BlhuUL2vmzq3eoqHzhondwS0+Sd/SWOaHaP7I
+         skV0FT7O3ZGNHS6VEMM+T5gzr3m09itOu33CKqTBSl/r+zrffeJrC2Z4yOx68DL9H0ag
+         323Q==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20221208; t=1689246633; x=1691838633;
+        h=to:subject:message-id:date:from:mime-version:x-gm-message-state
+         :from:to:cc:subject:date:message-id:reply-to;
+        bh=a21Fhi0hiHYNi5ati4dXkV7dkmFbMxm6T5FcIe71FK0=;
+        b=e5toW4MH4yZZIksoNwZ50ytV0HIwG2wciiIQDqcNNfA0kdQZmm6iHg8rkQIcEAquU/
+         93J0vb7QLD63Y0VYyQgzDWoTDvpN4UodW9px4oRB2cOtZXKslCLGioRQZWBS9iH7dw7/
+         bKW4ib514B9qIWWYOMag7ay+2TfXN15lM4XN7XUbTzlxx1+7tOf14cCrGt6NOgYvymMT
+         uIXGeO4UIRJI5XwFnVhmAh7ckAJ1aV/u3rXNhE70OKiOTXZiTdvv13jzJngtmWDV+uug
+         6iAQilr4H52YfKTz2F9Mcgk7d9TBh8Jfg39WJ5c5k8S6EVji5v+BwvqHTsG/wa5xh7Hl
+         wMIw==
+X-Gm-Message-State: ABy/qLZJzjRdomvfuY9MMaAwjpQP6zigokbLuUNSa3/kEhmazDPWIWzT v8okRfKQJq7r250q7q9e2CYRGBQDwkiqUBwqx0k=
+X-Google-Smtp-Source: APBJJlHqckDbjTbJcNXSMrF9euGRoSev/WePCqFFLgq35kMJnOUU1R1p1SYfxVM3+BHbwhiD57ILDdezUF7Xw1CftGo=
+X-Received: by 2002:a67:b447:0:b0:443:55eb:ce92 with SMTP id c7-20020a67b447000000b0044355ebce92mr265298vsm.19.1689246633113; Thu, 13 Jul 2023 04:10:33 -0700 (PDT)
+MIME-Version: 1.0
+From: Mery Peter <merymem890@gmail.com>
+Date: Thu, 13 Jul 2023 11:10:20 +0000
+Message-ID: <CAO5hsvivsOowup=TPUb1GXAt6Pqq0TPQLDZTZ2SBBUcNkQqVJA@mail.gmail.com>
+Subject: Habari
+To: undisclosed-recipients:;
+Content-Type: multipart/alternative; boundary="000000000000813dc006005c61bf"
+Bcc: mariakajembe@gmail.com
+
+--000000000000813dc006005c61bf
+Content-Type: text/plain; charset="UTF-8"
+
+Unaendeleaje leo na familia yako. tafadhali nina mambo muhimu ya kujadili
+na wewe
+
+--000000000000813dc006005c61bf
+Content-Type: text/html; charset="UTF-8"
+
+<div dir="ltr"><br><br>Unaendeleaje leo na familia yakعo. tafadhali nina mambo muhimu ya kujadili na wewe<br></div>
+
+--000000000000813dc006005c61bf--
